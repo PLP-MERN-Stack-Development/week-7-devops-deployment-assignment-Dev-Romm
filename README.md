@@ -50,7 +50,7 @@ server/         # Express backend
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/rad-shopping-app.git
+git clone https://github.com/PLP-MERN-Stack-Development/week-7-devops-deployment-assignment-Dev-Romm.git
 cd rad-shopping-app
 ```
 
