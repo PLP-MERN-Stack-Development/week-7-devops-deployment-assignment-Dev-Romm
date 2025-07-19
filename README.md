@@ -7,8 +7,8 @@ Frontend deployed on **Vercel**, backend on **Render**, and database on **MongoD
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel):** [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
-- **Backend API (Render):** [https://your-render-api-url.onrender.com](https://your-render-api-url.onrender.com)
+- **Frontend (Vercel):** [https://rad-shopping-app.vercel.app/](https://rad-shopping-app.vercel.app/)
+- **Backend API (Render):** [https://rad-shopping-app.onrender.com](https://rad-shopping-app.onrender.com)
 
 ---
 
